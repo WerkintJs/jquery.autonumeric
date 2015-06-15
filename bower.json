@@ -5,6 +5,6 @@
         "autoNumeric": "*"
     },
     "main":         [
-        "bower.json"
+        "overrides.json"
     ]
 }
