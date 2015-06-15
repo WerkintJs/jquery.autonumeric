@@ -1,0 +1,10 @@
+{
+    "name":         "jquery.autonumeric",
+    "version":      "0.0.1",
+    "dependencies": {
+        "autoNumeric": "*"
+    },
+    "main":         [
+        "bower.json"
+    ]
+}
